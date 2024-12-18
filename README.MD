@@ -1,3 +1,3 @@
-#HOLA MUNDO
+# HOLA MUNDO
 
-Documentación del flujo de trabajo remoto con GIT
+Documentación del flujo de trabajo remoto con GIT.
